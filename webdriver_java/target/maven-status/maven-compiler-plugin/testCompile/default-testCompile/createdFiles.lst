@@ -1,0 +1,11 @@
+base\BaseTest.class
+dropdown\DropDownTest.class
+navigation\NavigationTest.class
+alerts\FileUploadTest.class
+alerts\ModalPageTest.class
+alerts\AlertsTest.class
+frame\FrameTest.class
+javascript\JavaScriptTest.class
+hover\HoverTest.class
+keys\KeysTest.class
+base\BaseTest$1.class
